@@ -33,11 +33,11 @@ Analyses des Jeux d'argents SKYROCK
 
 # INSTALL DEPENDENCIES 
 
-        pip install -r requirements.txt
+    pip install -r requirements.txt
 
 # RUN PROGRAM
 
-        chmod +x Jeux.py
-        python3 Jeux.py
+    chmod +x Jeux.py
+    python3 Jeux.py
 
 By Gleaphe 2025 .
