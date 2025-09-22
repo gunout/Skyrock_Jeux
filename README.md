@@ -30,3 +30,14 @@ Analyses des Jeux d'argents SKYROCK
     Graphiques haute qualité
 
     Rapport détaillé avec insights
+
+# INSTALL DEPENDENCIES 
+
+        pip install -r requirements.txt
+
+# RUN PROGRAM
+
+        chmod +x Jeux.py
+        python3 Jeux.py
+
+By Gleaphe 2025 .
